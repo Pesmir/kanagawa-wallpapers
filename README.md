@@ -1,2 +1,2 @@
-# kanagawa-wallpapers
-Personal favorite collection of kanagawa wallpapaers
+# wallpapers
+Personal favorite collection of wallpapaers
